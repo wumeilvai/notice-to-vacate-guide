@@ -18,7 +18,7 @@ Generate a state-specific notice to vacate letter instantly:
 
 - [State-by-State Notice Periods](https://noticetovacate.net) 
 - [HUD Official Tenant Rights](https://www.hud.gov/topics/rental_assistance)
-- [Nolo Landlord-Tenant Law](https://www.nolo.com/legal-encyclopedia/landlord-tenant-law)
+- [Nolo Landlord-Tenant Law](https://www.nolo.com/legal-encyclopedia/landlords)
 
 ## Contributing
 
